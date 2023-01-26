@@ -40,7 +40,7 @@ border-radius: 50%;
 .dead {
 background-color: black;
 border-radius: 50%;
-transition: 2s;
+transition: 5s;
 }
 
 .score {
